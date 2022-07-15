@@ -1,5 +1,5 @@
 # react_sass
-## Construir Portifolio com React + SASS
+## Construir Portfolio com React + SASS
 Objetivo aprender a fazer a integração de #react com #sass, 
 usando o #vite para criar o projeto. Será utilizado no
 projeto diversos recursos de SASS, como: mixins, variáveis,
