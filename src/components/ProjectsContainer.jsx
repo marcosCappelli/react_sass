@@ -7,7 +7,7 @@ const ProjectsContainer = () => {
          eaque mollitia nulla, ab architecto ratione temporibus ex,
          laborum hic asperiores suscipit ipsa.
       </p>
-      <a href="#" className="btn">
+      <a href="https://github.com/marcosCappelli" target="_blank" className="btn">
         Ver Projetos
       </a>
     </section>
